@@ -18,7 +18,6 @@ function Table() {
                     <td>This is an implementation which maintains infomration about a weighted, undirected, graph where each node has an integer id and a skill vector..</td>
                 </tr>
             </table>
-            <button class="scrolltotopbtn">Back to Top</button>
 
         </div>
     )
